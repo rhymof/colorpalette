@@ -1,0 +1,223 @@
+/* Please edit this variables */
+:root {
+  --background0: #000;
+  --background1: #222;
+  --background2: #424;
+  --border: #888;
+  --text: #EEE;
+  --black: #000;
+  --bright-black: #555;
+  --red: #700;
+  --bright-red: #F00;
+  --yellow: #770;
+  --bright-yellow: #FF0;
+  --green: #070;
+  --bright-green: #0F0;
+  --blue: #007;
+  --bright-blue: #00F;
+  --magenta: #707;
+  --bright-magenta: #F0F;
+  --cyan: #077;
+  --bright-cyan: #0FF;
+  --white: #AAA;
+  --bright-white: #FFF;
+  --other1: #975;
+  --bright-other1: #FDB;
+  --other2: #579;
+  --bright-other2: #BDF;
+}
+
+body {
+  background: var(--background0);
+  color: var(--text);
+}
+
+.palette {
+  margin-bottom: 2rem;
+}
+
+.background1 {
+  margin-bottom: 2rem;
+}
+
+table {
+  border-color: var(--border);
+  border: 4px solid;
+}
+
+table td {
+  height: 100px;
+  width: 150px;
+  border-color: var(--border);
+  border: 2px solid;
+}
+
+.normal {
+  color: var(--bright-white);
+  border-color: var(--border);
+}
+
+.bright {
+  color: var(--bright-black);
+  border-color: var(--border);
+}
+
+#black {
+  background: var(--black);
+}
+
+#bright_black {
+  background: var(--bright-black),
+}
+
+#red {
+  background: var(--red);
+}
+
+#bright_red {
+  background: var(--bright-red);
+}
+
+#yellow {
+  background: var(--yellow);
+}
+
+#bright_yellow {
+  background: var(--bright-yellow);
+}
+
+#green {
+  background: var(--green);
+}
+
+#bright_green {
+  background: var(--bright-green);
+}
+
+#blue {
+  background: var(--blue);
+}
+
+#bright_blue {
+  background: var(--bright-blue);
+}
+
+#magenta {
+  background: var(--magenta);
+}
+
+#bright_magenta {
+  background: var(--bright-magenta);
+}
+
+#cyan {
+  background: var(--cyan);
+}
+
+#bright_cyan {
+  background: var(--bright-cyan);
+}
+
+#white {
+  background: var(--white);
+}
+
+#bright_white {
+  background: var(--bright-white);
+}
+
+#other1 {
+  background: var(--other1);
+}
+
+#bright_other1 {
+  background: var(--bright-other1)
+}
+
+#other2 {
+  background: var(--other2)
+}
+
+#bright_other2 {
+  background: var(--bright-other2)
+}
+
+.background1 {
+  background: var(--background1);
+}
+
+.background2 {
+  background: var(--background2);
+}
+
+.text-black {
+  color: var(--black);
+}
+
+.text-bright-black {
+  color: var(--bright-black)
+}
+
+.text-red {
+  color: var(--red)
+}
+
+.text-bright-red {
+  color: var(--bright-red)
+}
+
+.text-green {
+  color: var(--green)
+}
+
+.text-bright-green {
+  color: var(--bright-green)
+}
+
+.text-blue {
+  color: var(--blue)
+}
+
+.text-bright-blue {
+  color: var(--bright-blue)
+}
+
+.text-magenta {
+  color: var(--magenta)
+}
+
+.text-bright-magenta {
+  color: var(--bright-magenta)
+}
+
+.text-cyan {
+  color: var(--cyan)
+}
+
+.text-bright-cyan {
+  color: var(--bright-cyan)
+}
+
+.text-white {
+  color: var(--white)
+}
+
+.text-bright-white {
+  color: var(--bright-white)
+}
+
+.text-other1 {
+  color: var(--other1)
+}
+
+.text-bright-other1 {
+  color: var(--bright-other1)
+}
+
+.text-other2 {
+  color: var(--other2)
+}
+
+.text-bright-other2 {
+  color: var(--bright-other2)
+}
