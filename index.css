@@ -174,6 +174,14 @@ table td {
   color: var(--bright-green)
 }
 
+.text-yellow {
+  color: var(--yellow);
+}
+
+.text-bright-yellow {
+  color: var(--bright-yellow)
+}
+
 .text-blue {
   color: var(--blue)
 }
