@@ -1,30 +1,30 @@
 /* Please edit this variables */
 :root {
-  --background0: #000;
-  --background1: #222;
-  --background2: #424;
-  --border: #888;
-  --text: #EEE;
-  --black: #000;
-  --bright-black: #555;
-  --red: #700;
-  --bright-red: #F00;
-  --yellow: #770;
-  --bright-yellow: #FF0;
-  --green: #070;
-  --bright-green: #0F0;
-  --blue: #007;
-  --bright-blue: #00F;
-  --magenta: #707;
-  --bright-magenta: #F0F;
-  --cyan: #077;
-  --bright-cyan: #0FF;
-  --white: #AAA;
-  --bright-white: #FFF;
-  --other1: #975;
-  --bright-other1: #FDB;
-  --other2: #579;
-  --bright-other2: #BDF;
+  --background0: #00061D;
+  --background1: #00173D;
+  --background2: #002E60;
+  --border: #727171;
+  --text: #FBFBF6;
+  --black: #000822;
+  --bright-black: #00295A;
+  --red: #D13939;
+  --bright-red: #E85B59/*E86B79*/;
+  --yellow: #B3B00E;
+  --bright-yellow: #ECE038;
+  --green: #5EAD1C;
+  --bright-green: #ABC900;
+  --blue: #424BBF/*#2394AD*/;
+  --bright-blue: #7F7CE3/*#5AB5B2*/;
+  --magenta: #903292/*#512682*/;
+  --bright-magenta: #EB6EE5/*#745399*/;
+  --cyan: #0086CC/*#277A96*/;
+  --bright-cyan: #00D5EF/*#84B9CB*/;
+  --white: #E3E3DE;
+  --bright-white: #FBFBF6;
+  --other1: #B17009;
+  --bright-other1: #EE9D19;
+  --other2: #00173D;
+  --bright-other2: #002E60;
 }
 
 body {
@@ -174,28 +174,36 @@ table td {
   color: var(--bright-green)
 }
 
+.text-yellow {
+  color: var(--yellow);
+}
+
+.text-bright-yellow {
+  color: var(--bright-yellow);
+}
+
 .text-blue {
-  color: var(--blue)
+  color: var(--blue);
 }
 
 .text-bright-blue {
-  color: var(--bright-blue)
+  color: var(--bright-blue);
 }
 
 .text-magenta {
-  color: var(--magenta)
+  color: var(--magenta);
 }
 
 .text-bright-magenta {
-  color: var(--bright-magenta)
+  color: var(--bright-magenta);
 }
 
 .text-cyan {
-  color: var(--cyan)
+  color: var(--cyan);
 }
 
 .text-bright-cyan {
-  color: var(--bright-cyan)
+  color: var(--bright-cyan);
 }
 
 .text-white {
