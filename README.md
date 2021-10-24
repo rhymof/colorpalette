@@ -15,7 +15,7 @@ Easy to use and works locally.
 
 ## Sample
 
-![sample image](./colorpalette.PNG)
+![sample image](./colorpalette.png)
 
 ## LICENSE
 
